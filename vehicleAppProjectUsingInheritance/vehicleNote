@@ -1,0 +1,17 @@
+Vehicle:
+1.name(String)
+2.Speed(int)
+3.Direction(int)
+Method:
+(speed,dire)
+->Steer(dire)
+
+car->vehicle
+>wheels(int)
+>type(string)
+>doors(int)
+>isstraring(boolean)
+>gears(int)
+
+change Gear(current gear)
+changeSpeed(speed,dive)
