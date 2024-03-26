@@ -1,0 +1,11 @@
+Making simple Game using Java OOPs
+p1:
+name
+weapon:g1->30
+g2->5
+health
+
+p2:
+Armaon=true;
+g1->-20
+g2->-40
